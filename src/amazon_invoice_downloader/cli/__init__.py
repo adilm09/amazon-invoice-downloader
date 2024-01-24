@@ -7,17 +7,17 @@ Amazon Invoice Downloader
 
 Usage:
   amazon-invoice-downloader.py \
-    [--email=<email> --password=<password>] \
+    [--email=<adilmehmood@outlook.de> --password=<Hibaadil13>] \
     [--year=<YYYY> | --date-range=<YYYYMMDD-YYYYMMDD>]
   amazon-invoice-downloader.py (-h | --help)
 
 Login Options:
-  --email=<email>          Amazon login email  [default: $AMAZON_EMAIL].
-  --password=<password>    Amazon login password  [default: $AMAZON_PASSWORD].
+  --email=<adilmehmood@outlook.de>          Amazon login email  [default: $AMAZON_EMAIL].
+  --password=<Hibaadil13>    Amazon login password  [default: $AMAZON_PASSWORD].
 
 Date Range Options:
-  --date-range=<YYYYMMDD-YYYYMMDD>  Start and end date range
-  --year=<YYYY>            Year, formatted as YYYY  [default: <CUR_YEAR>].
+  --date-range=<01082023>  Start and end date range
+  --year=<2023>            Year, formatted as YYYY  [default: <CUR_YEAR>].
 
 Options:
   -h --help                Show this screen.
